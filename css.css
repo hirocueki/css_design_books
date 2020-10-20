@@ -1,6 +1,10 @@
+/* ベース ==============================*/
+
 body{
   font-family: sans-serif;
 }
+
+/* レイアウト ==============================*/
 
 .ly_cont{
   max-width: 1200px;
@@ -9,6 +13,8 @@ body{
   margin-right: auto;
   margin-left: auto;
 }
+
+/* モジュール ==============================*/
 
 #main span{
   color: #555;
