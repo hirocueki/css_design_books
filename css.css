@@ -1,3 +1,7 @@
+body{
+  font-family: sans-serif;
+}
+
 #main span{
   color: #555;
   font-size: 14px;
@@ -13,7 +17,6 @@
   /* モジュールに対する */
   display:flex;
   align-items: center;
-  font-family: sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
